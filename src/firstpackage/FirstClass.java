@@ -8,9 +8,14 @@ public class FirstClass {
 		System.out.println("first commit from local repository");
 		System.out.println("secand commit from local repository");
 		
-		System.out.println("conflict yapmak istiyorum");
+		System.out.println("2.kez conflict yapmak istiyorum");
 
 		System.out.println("first commit from remote repository");
+		
+		
+		
+		
+		
 		
 		
 //		
